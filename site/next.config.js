@@ -2,15 +2,15 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'BlackHole Kasm',
+    description: 'Personal',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://github.com/runinit/kasmworkspaces',
+    contactUrl: 'https://github.com/runinit/kasmworkspaces',
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/kasmworkspaces/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
